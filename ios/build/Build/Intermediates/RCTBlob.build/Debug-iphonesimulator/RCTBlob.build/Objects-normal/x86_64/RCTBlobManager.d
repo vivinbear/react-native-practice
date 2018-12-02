@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/wufan/react-native-practice/node_modules/react-native/Libraries/Blob/RCTBlobManager.m \
+  /Users/wufan/react-native-practice/node_modules/react-native/Libraries/Blob/RCTBlobManager.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTWebSocketModule.h \
+  /Users/wufan/react-native-practice/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h
